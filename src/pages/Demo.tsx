@@ -20,7 +20,7 @@ const Demo = () => {
         <header className="bg-white shadow-md sticky top-0 z-10">
           <div className="container py-2 md:py-4 flex justify-between items-center">
             <div>
-              <h1 className="text-xl md:text-2xl font-bold text-medical-700">MedAdvise AI</h1>
+              <h1 className="text-xl md:text-2xl font-bold text-medical-700">MedAssist AI</h1>
               <p className="text-xs md:text-sm text-gray-600">Voice-based medical assistant POC</p>
             </div>
 
@@ -127,7 +127,7 @@ const Demo = () => {
         <footer className="bg-white py-4 md:py-6 border-t">
           <div className="container">
             <div className="text-center text-gray-500 text-xs md:text-sm">
-              <p>MedAdvise AI - Proof of Concept Demo - Not for actual medical use</p>
+              <p>MedAssist AI - Proof of Concept Demo - Not for actual medical use</p>
               <p className="mt-1 md:mt-2">© {new Date().getFullYear()} All rights reserved</p>
             </div>
           </div>

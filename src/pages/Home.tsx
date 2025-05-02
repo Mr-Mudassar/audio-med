@@ -10,7 +10,7 @@ const Home = () => {
       <header className="bg-white shadow-sm sticky top-0 z-10">
         <div className="container py-4 flex justify-between items-center">
           <div>
-            <h1 className="text-2xl font-bold text-medical-700">MedAdvise AI</h1>
+            <h1 className="text-2xl font-bold text-medical-700">MedAssist AI</h1>
             <p className="text-gray-600">Voice-based medical assistant</p>
           </div>
 
@@ -108,7 +108,7 @@ const Home = () => {
         <div className="container">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="font-bold text-lg mb-4">MedAdvise AI</h3>
+              <h3 className="font-bold text-lg mb-4">MedAssist AI</h3>
               <p className="text-gray-600">Revolutionizing healthcare with voice-enabled AI technology.</p>
             </div>
             <div>
@@ -125,13 +125,13 @@ const Home = () => {
               <address className="not-italic text-gray-600">
                 <p>123 Medical Drive</p>
                 <p>London, UK</p>
-                <p>Email: info@medadvise-ai.com</p>
+                <p>Email: info@medassist-ai.com</p>
                 <p>Phone: +44 20 1234 5678</p>
               </address>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-200 text-center text-gray-500">
-            <p>&copy; {new Date().getFullYear()} MedAdvise AI. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} MedAssist AI. All rights reserved.</p>
           </div>
         </div>
       </footer>
